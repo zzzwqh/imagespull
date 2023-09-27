@@ -5,7 +5,7 @@ RUN apt-get update && apt-get install -y \
     curl \
     wget \
     git \
-    vim \
+    vim 
     # 可根据需要添加其他软件包
 
 # 设置工作目录
